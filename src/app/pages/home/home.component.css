@@ -1,0 +1,13 @@
+.box{
+    width: 500;
+    border: 4 px black;
+    border-radius: 20px;
+    background-color: lightgrey;
+    padding: 40px;
+    margin-left: 10px;
+    overflow: scroll;
+    height: 600px;
+    margin-top: 50px;
+    font-style: oblique;
+    font-size: medium;
+}
